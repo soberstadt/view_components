@@ -1,5 +1,19 @@
 # CHANGELOG
 
+## 0.0.110
+
+### Patch Changes
+
+- [#1583](https://github.com/primer/view_components/pull/1583) [`a06f52cf`](https://github.com/primer/view_components/commit/a06f52cf77eff76f5a9003a9b224dc425de78f4b) Thanks [@jonrohan](https://github.com/jonrohan)! - Migrating progress bar component to beta folder, and adding progress bar css.
+
+* [#1579](https://github.com/primer/view_components/pull/1579) [`05e07bb1`](https://github.com/primer/view_components/commit/05e07bb1ff0a7d42fca94c0a922e24e7558af939) Thanks [@camertron](https://github.com/camertron)! - Move Banner to alpha namespace
+
+- [#1584](https://github.com/primer/view_components/pull/1584) [`cad5c235`](https://github.com/primer/view_components/commit/cad5c23548ad5682c8dce0d8f2831b08c2628889) Thanks [@simurai](https://github.com/simurai)! - Move `blankslate` styles to PVC
+
+* [#1587](https://github.com/primer/view_components/pull/1587) [`ac54ecc4`](https://github.com/primer/view_components/commit/ac54ecc4c2870cbb89d326d5d1808e6a36c543ec) Thanks [@simurai](https://github.com/simurai)! - Move labels styles to PVC
+
+- [#1590](https://github.com/primer/view_components/pull/1590) [`820022c3`](https://github.com/primer/view_components/commit/820022c3fbd69ab7d16aadcd46f23e74673bd2b0) Thanks [@simurai](https://github.com/simurai)! - Move `Truncate` styles to PVC
+
 ## 0.0.109
 
 ### Patch Changes
